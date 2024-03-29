@@ -1,0 +1,15 @@
+artifact_uri: file:///h:/Courses/python_DS/Innomatics%20Internship/Sentiment%20Analysis%20of%20Flipkart%20Reviews%20-%20MLOPS%20and%20Orchestration/mlruns/862320923495261754/febd6f2152cb4256b1b37691b7843d3a/artifacts
+end_time: 1711481270908
+entry_point_name: ''
+experiment_id: '862320923495261754'
+lifecycle_stage: active
+run_id: febd6f2152cb4256b1b37691b7843d3a
+run_name: bouncy-mare-686
+run_uuid: febd6f2152cb4256b1b37691b7843d3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711480653859
+status: 3
+tags: []
+user_id: ASUS
